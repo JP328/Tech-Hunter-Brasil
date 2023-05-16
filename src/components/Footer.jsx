@@ -26,8 +26,8 @@ function Footer() {
             </a>
           </div>
           <div className="w-2/5 max-lg:w-full flex justify-between max-lg:justify-around items-center"> 
-            <img src="/Sao_Judas.png" alt="Logo da Universidade São Judas" className="w-3/5 max-lg:w-1/3" />
-            <img src="/ecossistema-anima.png" alt="Logo do Ecossitema Ânima" className="w-2/5 max-lg:w-1/4" />
+            <img src="/tech-hunter-brasil/Sao_Judas.png" alt="Logo da Universidade São Judas" className="w-3/5 max-lg:w-1/3" />
+            <img src="/tech-hunter-brasil/ecossistema-anima.png" alt="Logo do Ecossitema Ânima" className="w-2/5 max-lg:w-1/4" />
           </div>
         </div>
         <p className="text-lg max-md:text-base text-center mb-4 max-sm:mx-4">

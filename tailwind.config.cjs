@@ -10,9 +10,9 @@ export default {
         "notoSans": ["Noto Sans", 'sans-serif']
       },
       backgroundImage: {
-        "waves" : "url('/waves-haikei.svg')",
-        "line-background" : "url('/line-background.svg')",
-        "home": "url('/pexels-fauxels-3183197.jpg')"
+        "waves" : "url('/tech-hunter-brasil/waves-haikei.svg')",
+        "line-background" : "url('/tech-hunter-brasil/line-background.svg')",
+        "home": "url('/tech-hunter-brasil/pexels-fauxels-3183197.jpg')"
       },
       aspectRatio: {
         "960/540": "960/540",

@@ -13,7 +13,7 @@ function Header() {
     <header className="w-full h-[10%] min-h-fit absolute inset-0 text-white overflow-hidden">
 
       <nav className="w-full h-full flex justify-between items-center text-xl font-semibold mx-3">
-        <img src="/logo.png" alt="Logo Tech Hunter Brasil" className="lg:w-1/6 lg:h-2/5 max-md:h-2n/5 max-md:w-2/5 w-1/5 h-1/3"/>
+        <img src="/tech-hunter-brasil/logo.png" alt="Logo Tech Hunter Brasil" className="lg:w-1/6 lg:h-2/5 max-md:h-2n/5 max-md:w-2/5 w-1/5 h-1/3"/>
         <div className="md:w-3/5 w-px max-md:invisible flex justify-around items-center">
           <Link className="hover:text-Mpink">Home</Link>
           <Link className="hover:text-Mpink">Squads</Link>
